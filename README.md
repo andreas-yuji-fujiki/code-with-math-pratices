@@ -1,4 +1,4 @@
-# Code and Math Practices
+# 🧑🏽‍💻 🧮 Code and Math Practices
 
 This repository contains exercises and projects where I translate mathematical concepts and steps into code, using different programming languages and technologies. The goal is to learn and explore math fundamentals while practicing programming.
 
