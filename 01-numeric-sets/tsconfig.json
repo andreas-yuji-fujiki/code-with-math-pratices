@@ -6,5 +6,8 @@
     "types": ["node"],
     "esModuleInterop": true,
     "strict": true
+  },
+  "ts-node": {
+    "experimentalTypeScriptStrip": false
   }
 }
